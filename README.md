@@ -12,4 +12,6 @@ It includes two type of login (Admin, User) and I had used binary files for stor
 It also has a cool loading screen which kinda looked cool so I had coded that for my project.
 
 If you're new into programming and if you're are worried about how this code would work and all of that, chill-out. You do not need to worry on that part. 
-# Its quite simple, Just keep all the files in the same directory and that's a go.
+Its quite simple, Just keep all the files in the same directory and that's a go.
+
+Although, there might be a little bit of changes required if you're using a mac-os or Linux as few header files may or may not work with the same declaration, You might have to tweak them a little. 

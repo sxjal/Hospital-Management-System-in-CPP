@@ -1,0 +1,3 @@
+# Hospital-Management-System-in-CPP
+
+As the title being said, This is a full fledge hospital management system coded in C++. This was my highschool project in which I had to make a basic hospital management system. I had integrated almost everything I could during that time and it did consist of most of knowledge at that time. It includes features like managing all the patients, doctors, lab tests, medicines, etc,. It includes two type of login (Admin, User) and I had used binary files for storing information. It also has a cool loading screen which kinda looked cool so I had coded that for my project.
